@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Mauro+Dinis+Raimundo;I'm+21+years+old;I'm+from+Angola;I'm+a+Software+Developer🧑🏾‍💻;Never+Stop+Learning!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Teófilo+Domingos;I'm+21+years+old;I'm+from+Angola;I'm+a+Software+Developer🧑🏾‍💻;Never+Stop+Learning!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br><br>
   <div align="center">  
@@ -12,7 +12,7 @@
   <br><br>
 
 <div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MauroTwister475&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?userteofilodomingos1-del&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
 <div/>
 <br><br>
 
