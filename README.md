@@ -12,9 +12,9 @@
   <br><br>
 
 
- <div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?username=teofilodomingos1-del&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
-</div>
+<div align="center">
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=teofilodomingos1-del&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+<div/>
 <br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=teofilodomingos1-del&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
