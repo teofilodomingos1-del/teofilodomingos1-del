@@ -12,7 +12,7 @@
   <br><br>
 
 <div align="center">
-  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?userteofilodomingos1-del&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
+  <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?username=teofilodomingos1-del&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
 <div/>
 <br><br>
 
